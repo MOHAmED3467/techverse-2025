@@ -1,0 +1,61 @@
+🧾 Description:
+Your client is hosting an annual Tech Conference and needs a simple yet informative registration web page.
+You are tasked with building the HTML structure only (no CSS/JS yet).
+It must include various content sections, accessible design, and support for forms, tables, media, and more.
+
+🎯 Objective
+Design a single-page HTML site for the TechVerse 2025 Conference with the following user stories.
+
+==================================================================================================
+👤 User Stories:
+==================================================================================================
+🟣 General Page Setup
+As a user, I want the page to have a proper <html>, <head>, and <body> structure.
+
+As a user, I want the page to have a title and meta description for SEO.
+
+As a user, I want the page to include a favicon and use the correct character encoding.
+==================================================================================================
+🔵 Hero & Navigation Section
+As a visitor, I want to see the name of the event in a <header> with a logo using <img>.
+
+As a visitor, I want to navigate to different sections using a semantic <nav> bar with <a> links.
+
+As a visitor, I want to return to the top of the page using an anchor link (#top).
+==================================================================================================
+🟢 Event Overview Section
+As a visitor, I want to read a brief overview in a <section> using proper <h1>, <h2>, and <p> tags.
+
+As a user, I want a quote from the organizer using <blockquote>.
+
+As a user, I want to see a list of key topics in a combination of <ul> and <ol>.
+==================================================================================================
+🔴 Speaker Table Section
+As a visitor, I want to view a list of speakers in a <table> with <thead>, <tbody>, and <tr>, <th>, <td>.
+==================================================================================================
+🟠 Embedded Media Section
+As a visitor, I want to watch the previous year’s highlights embedded using <iframe> from YouTube.
+
+As a user, I want to hear the welcome message from the organizer using <audio> with controls.
+
+As a user, I want to see a teaser image with a caption using <figure> and <figcaption>.
+==================================================================================================
+🟡 Registration Form Section
+As a user, I want to register using a form that includes:
+
+<form>, <input type="text/email/checkbox/radio/date">, <label>, <textarea>, <select>, <option>, and <button>
+
+As a user, I want required fields to be marked using the required attribute.
+
+As a user, I want accessibility via aria-label, placeholder, and for attributes.
+==================================================================================================
+🟣 Footer Section
+As a visitor, I want to see the copyright.
+
+As a user, I want contact information using <address>.
+
+As a user, I want external social media links to open in a new tab (target="_blank").
+==================================================================================================
+
+
+
