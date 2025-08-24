@@ -22,7 +22,7 @@ This is the official single-page HTML website for the **TechVerse 2025** Confere
 ## 🚀 Demo
 
 🌍 Live preview available at:  
-**[https://yourusername.github.io/techverse-2025](https://yourusername.github.io/techverse-2025)**
+**[https://mohamed3467.github.io/techverse-2025/](https://mohamed3467.github.io/techverse-2025/)**
 
 ---
 
